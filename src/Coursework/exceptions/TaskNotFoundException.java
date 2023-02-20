@@ -1,5 +1,4 @@
-package exceptions;
-
+package Coursework.exceptions;
 public class TaskNotFoundException extends Exception {
 
     public TaskNotFoundException(String message) {

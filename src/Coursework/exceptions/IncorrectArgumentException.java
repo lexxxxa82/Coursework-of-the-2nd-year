@@ -1,5 +1,4 @@
-package exceptions;
-
+package Coursework.exceptions;
 public class IncorrectArgumentException extends Exception {
 
     public IncorrectArgumentException(String argument) {

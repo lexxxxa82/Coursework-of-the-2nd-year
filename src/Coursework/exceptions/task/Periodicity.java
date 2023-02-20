@@ -1,4 +1,4 @@
-package task;
+package Coursework.exceptions.task;
 
 public enum Periodicity {
     ONETIME {

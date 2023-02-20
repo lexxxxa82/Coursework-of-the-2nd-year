@@ -1,8 +1,6 @@
-package task;
-
-import exceptions.IncorrectArgumentException;
+package Coursework.exceptions.task;
+import Coursework.exceptions.IncorrectArgumentException;
 import java.util.*;
-
 public class TaskService {
     private final Map<Integer, Task> taskMap = new HashMap<>();
     private final Set<Task> removedTasks = new HashSet<>();

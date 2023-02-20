@@ -1,7 +1,6 @@
-package task;
+package Coursework.exceptions.task;
 
 import java.time.LocalDate;
-
 public class YearlyTask extends Task {
 
     @Override

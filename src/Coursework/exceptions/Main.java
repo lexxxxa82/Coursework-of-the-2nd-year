@@ -1,8 +1,7 @@
-import exceptions.IncorrectArgumentException;
-import exceptions.TaskNotFoundException;
-import task.Periodicity;
-import task.TaskService;
-import task.InputUtils;
+package Coursework.exceptions;
+import Coursework.exceptions.task.Periodicity;
+import Coursework.exceptions.task.TaskService;
+import Coursework.exceptions.task.InputUtils;
 
 import java.util.Scanner;
 
